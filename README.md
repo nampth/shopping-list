@@ -1,6 +1,8 @@
 # shopping_list
 
 A new Flutter project.
+## Course Link
+- https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/
 
 ## Getting Started
 
